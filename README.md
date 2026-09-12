@@ -48,10 +48,10 @@ Default roots used by modules:
 
 Available Datasets:
 
-- Published: the text datasets including generations and correctness labels used in my experiments (generated via `gen_dataset/`) are available see [Datasets](##Dataset).
+- Published: the text datasets including generations and correctness labels used in my experiments (generated via `gen_dataset/`) are available see [Datasets](##Datasets).
 - Not published: the hidden-state feature datasets (`*.pt` files) used for model training are not distributed due to their size.
 
-If the feature folders above do not exist, generate hidden-state features locally from a text dataset (either your own or the published text datasets see [Datasets](##Dataset)) using `feat_extract/prefill_pipeline.py`.
+If the feature folders above do not exist, generate hidden-state features locally from a text dataset (either your own or the published text datasets see [Datasets](##Datasets)) using `feat_extract/prefill_pipeline.py`.
 
 ### 3) Experiment Tracking / Optional Dependencies
 
