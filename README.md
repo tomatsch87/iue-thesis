@@ -1,6 +1,6 @@
 # Introspective Uncertainty Estimation for LLM-Based Code Generation
 
-Master-Thesis Repository -- Author: [Thomas Klassert](mailto:tomatsch87@protonmail.com)
+Master-Thesis Repository with Code and Datasets-- Author: [Thomas Klassert](mailto:tomatsch87@protonmail.com)
 
 ## Abstract
 
@@ -8,9 +8,9 @@ Large Language Models (LLMs) are increasingly used for code generation but can p
 
 The results show that hidden states contain a strong response-level correctness signal. Static single-token probes perform best, reaching 0.90 AUROC and 0.96 F1 on LCB in the best settings, generally surpassing the thresholds of previously reported static probe baselines for IUE. More elaborate dynamic token-selection and sequence-modeling strategies yield no consistent gains. While generalization across tasks, domains, and token positions is feasible, setting-dependent degradation largely remains for real-world software projects. At a fine granularity, line-level prediction in mixed-program settings is substantially harder than response-level estimation. However, in a conditional localization setup with known-incorrect programs, Top-K point-of-failure ranking remains effective, achieving a Top-3 hit rate of 81% in the best setting. Overall, the findings suggest that hidden states are a robust and informative resource for estimating functional code correctness and localizing faults, supporting a two-stage workflow that combines response-level risk screening with targeted line-level prioritization, and motivate further research on IUE for LLM-based code generation.
 
-## Paper
+## Master-Thesis Preprint
 
-The paper can be found [here]().
+The preprint paper can be found [here]().
 
 ## Datasets
 
