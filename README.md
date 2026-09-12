@@ -1,6 +1,6 @@
 # Introspective Uncertainty Estimation for LLM-Based Code Generation
 
-Master-Thesis Repository with Code and Datasets-- Author: [Thomas Klassert](mailto:tomatsch87@protonmail.com)
+Master-Thesis Repository with Code and Datasets -- Author: [Thomas Klassert](mailto:tomatsch87@protonmail.com)
 
 ## Abstract
 
