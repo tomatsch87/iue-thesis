@@ -10,7 +10,7 @@ The results show that hidden states contain a strong response-level correctness 
 
 ## Master-Thesis
 
-The thesis can be found [here]().
+The thesis can be found [here](https://arxiv.org/abs/2609.13975).
 
 ## Datasets
 
