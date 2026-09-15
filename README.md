@@ -19,7 +19,15 @@ The datasets can be found [here](https://doi.org/10.6084/m9.figshare.33696658).
 ## Citation
 
 ```
-
+@misc{klassert2026introspectiveuncertaintyestimationllmbased,
+      title={Introspective Uncertainty Estimation for LLM-Based Code Generation}, 
+      author={Thomas Klassert},
+      year={2026},
+      eprint={2609.13975},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2609.13975}, 
+}
 ```
 
 ## General Usage Requirements
